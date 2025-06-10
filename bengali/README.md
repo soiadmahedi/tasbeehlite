@@ -26,7 +26,7 @@
 
 -  [English](https://github.com/soiadmahedi/tasbeehlite/tree/master)
 -  [Bangla (বাংলা)](https://github.com/soiadmahedi/tasbeehlite/blob/master/bengali)
--  [Sylheti (সিলেটি)](#-সিলেটি)
+-  [Sylheti Nagri (সিলেটি নাগরি - ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ)](#-সিলেটি)
 - আরো ভাষায় আসতেছে...
 
 ## 🚀 শুরু করুন

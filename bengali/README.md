@@ -24,8 +24,8 @@
 
 ## 🌐 Languages / ভাষাসমূহ
 
--  [English](https://github.com/soiadmahedi/tasbeehlite/edit/master/README.md)
--  [Bangla (বাংলা)](https://github.com/soiadmahedi/tasbeehlite/edit/master/bengali/README.md)
+-  [English](https://github.com/soiadmahedi/tasbeehlite/master/README.md)
+-  [Bangla (বাংলা)](https://github.com/soiadmahedi/tasbeehlite/master/bengali/README.md)
 -  [Sylheti (সিলেটি)](#-সিলেটি)
 - আরো ভাষায় আসতেছে...
 

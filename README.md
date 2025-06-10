@@ -1,16 +1,31 @@
-# tasbeehlite
+<p align="center">
+  <img src="assets/icon/tasbeehlite_icon.png" alt="Tasbeeh Lite Icon" width="120" height="120">
+</p>
 
-Simple and Lite Muslim Tasbeeh Counter Application
+<h1 align="center">Tasbeeh Lite - Soiad Mahedi</h1>
 
-## Getting Started
+<p align="center">
+  <b>Simple and Lite Muslim Tasbeeh Counter Application</b>
+</p>
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 About
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Tasbeeh Lite** is a lightweight and easy-to-use digital tasbeeh (prayer bead) counter designed for Muslims to keep track of dhikr (remembrance of Allah). It offers a clean interface and smooth user experience with minimal distractions.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- 🔢 Simple digital counter
+- 💡 Lightweight and fast
+- 📱 Clean and minimal user interface
+- 💾 Saves your last count
+- 🌙 Inspired by traditional Tasbeeh usage
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/tasbeeh-lite.git
+cd tasbeeh-lite

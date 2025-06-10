@@ -22,6 +22,13 @@
 - 💾 Saves your last count
 - 🌙 Inspired by traditional Tasbeeh usage
 
+## 🌐 Languages / ভাষাসমূহ
+
+-  [English](https://github.com/soiadmahedi/tasbeehlite/tree/master)
+-  [Bangla (বাংলা)](https://github.com/soiadmahedi/tasbeehlite/blob/master/bengali)
+-  [Sylheti Nagri (সিলেটি নাগরি - ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ)](#-সিলেটি)
+- More Language is Coming Soon...
+
 ## 🚀 Getting Started
 
 Clone the repository:

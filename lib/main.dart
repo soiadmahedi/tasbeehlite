@@ -8,6 +8,8 @@ import 'package:tasbeehlite/localization/app_localizations.dart';
 import 'package:tasbeehlite/utils/language_manager.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
 
+// by Soiad Mahedi
+
 late SharedPreferences prefs;
 
 void main() async {

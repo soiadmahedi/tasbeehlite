@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon/tasbeehlite_icon.png" alt="তাসবিহ লাইট আইকন" width="120" height="120">
+  <img src="https://github.com/soiadmahedi/tasbeehlite/blob/master/assets/icon/tasbeehlite_icon.png" alt="তাসবিহ লাইট আইকন" width="120" height="120">
 </p>
 
 <h1 align="center">তাসবিহ লাইট - সৈয়দ মেহেদী</h1>

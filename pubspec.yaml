@@ -69,6 +69,7 @@ flutter:
     - assets/i18n/bn.json
     - assets/i18n/en.json
     - assets/i18n/sw.json
+    - assets/i18n/
 
   fonts:
     - family: LiAdorFont

@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+
+import 'package:flutter/services.dart';
+
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:tasbeehlite/screens/home_screen.dart';
@@ -14,6 +17,14 @@ late SharedPreferences prefs;
 
 void main() async {
   WidgetsBinding widgetsBinding = WidgetsFlutterBinding.ensureInitialized();
+
+  SystemChrome.setEnabledSystemUIMode(SystemUiMode.edgeToEdge);
+  SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
+    systemNavigationBarColor: Colors.transparent,
+    statusBarColor: Colors.transparent,
+    statusBarIconBrightness: Brightness.dark, // For light theme
+  ));
+
   FlutterNativeSplash.preserve(widgetsBinding: widgetsBinding);
   prefs = await SharedPreferences.getInstance(); // Initialize SharedPreferences
   runApp(const MyApp());

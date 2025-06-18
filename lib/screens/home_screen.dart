@@ -219,9 +219,9 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
       // একটি AppBar যুক্ত করা হয়েছে যেখানে সব বাটন থাকবে
       appBar: AppBar(
         title: Text(localizations.translate('tasbeeh_counter')),
-        backgroundColor: Colors.transparent,
+        backgroundColor: Colors.greenAccent,
         elevation: 0,
-        centerTitle: true,
+        centerTitle: false,
         actions: [
           IconButton(
             icon: const Icon(Icons.share_outlined),
@@ -281,15 +281,9 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
     return Container(
       height: 90,
       decoration: BoxDecoration(
-        color: Colors.white,
-        borderRadius: BorderRadius.circular(16),
-        boxShadow: [
-          BoxShadow(
-            color: Colors.black.withOpacity(0.05),
-            blurRadius: 10,
-            offset: const Offset(0, 4),
-          )
-        ],
+        color: Color(0xFFE9EEFF),
+        borderRadius: BorderRadius.circular(10),
+        border: Border.all(color: Colors.black, width: 0.5),
       ),
       child: Row(
         children: [

@@ -3,7 +3,7 @@
     <uses-permission android:name="android.permission.VIBRATE"/>
 
     <application
-        android:label="tasbeehlite"
+        android:label="Tasbeeh Lite"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

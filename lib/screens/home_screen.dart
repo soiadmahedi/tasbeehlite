@@ -219,7 +219,7 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
       // একটি AppBar যুক্ত করা হয়েছে যেখানে সব বাটন থাকবে
       appBar: AppBar(
         title: Text(localizations.translate('tasbeeh_counter')),
-        backgroundColor: Colors.greenAccent,
+        backgroundColor: Color(0xFFBDFFCF),
         elevation: 0,
         centerTitle: false,
         actions: [
@@ -249,7 +249,7 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
         children: [
           // Dua Selector Card
           Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 20.0, vertical: 10.0),
+            padding: const EdgeInsets.symmetric(horizontal: 10.0, vertical: 10.0),
             child: _buildDuaSelector(localizations),
           ),
           const Spacer(),
